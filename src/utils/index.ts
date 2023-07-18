@@ -1,0 +1,1 @@
+export * from "./toCapitialize.ts";
